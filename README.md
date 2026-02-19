@@ -17,3 +17,6 @@ El usuario introduce un valor mínimo y un valor máximo, y la aplicación muest
 
 1. Clonar el repositorio
 2. Abrir el archivo src/index.html en el navegador
+
+## Capturas
+![Generador](assets/numeros_aleatorios.png)
