@@ -11,6 +11,7 @@ El usuario introduce un valor mínimo y un valor máximo, y la aplicación muest
 
 - HTML
 - CSS
+- JavaScript
 
 ## Instalación y ejecución
 
